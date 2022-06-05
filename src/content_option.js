@@ -1,18 +1,18 @@
-const logotext = "ANJAR FERI SAPUTRO";
+const logotext = "##ANJAR##";
 const meta = {
-    title: "John Doe",
+    title: "Anjar Feri Saputro",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
     title: "I’m Anjar Feri Saputro",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Hi...",
+        second: "let's make a cool web app",
+        third: "and interactive UI/UX",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://drive.google.com/u/0/uc?id=1UJFk-Gt-vOpmWYUH5y37IoM-xjg3OrxE&export=download",
+    description: "I am a full stack developer and mobile app developer who is also interested in machine learning and IoT technology",
+    your_img_url: "https://drive.google.com/u/0/uc?id=1yvRaiGIB7hoyyd75WGEWQAkWxVi9hkXc&export=download",
 };
 
 const dataabout = {
@@ -59,16 +59,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Desktop Application",
+        description: "desktop/web applications for data management and applications tailored to the company's business processes.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Develop multi-platform mobile apps, both hybrid and native apps.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "IoT",
+        description: "Expand IoT systems from hardware to desktop/web and mobile apps.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "anjarvery@gmail.com",
+    YOUR_FONE: "(+62)82273411470",
+    description: "Messages will definitely be replied to on working days if it is a holiday, will be replied to the next day, thank you.",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",

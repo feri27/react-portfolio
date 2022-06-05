@@ -2,11 +2,6 @@
 
 A simple Portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)
-
-
 ### Features
 
 - Fully Responsive
@@ -34,7 +29,7 @@ statrt the server
 <pre>yarn start</pre>
 
 ### Thanks
-If you like this portfolio template don't forget give it a ⭐ 
+
  
 
 

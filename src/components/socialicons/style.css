@@ -1,5 +1,5 @@
 .stick_follow_icon {
-    top: 50%;
+    top: 46.5%;
     left: 30px;
     width: 20px;
     height: 200px;
@@ -14,8 +14,8 @@
 }
 
 .stick_follow_icon svg {
-    width: 1.3em;
-    height: 1.3em;
+    width: 1.8em;
+    height: 1.8em;
     fill: var(--text-color)
 }
 
@@ -42,11 +42,11 @@
 }
 
 .stick_follow_icon p:after {
-    top: 9px;
+    top: 2px;
     right: -48px;
     width: 40px;
-    height: 1px;
-    content: "";
+    height: 0px;
+    content: ">";
     display: block;
     position: absolute;
     background-color: var(--text-color);
