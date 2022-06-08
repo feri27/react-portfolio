@@ -37,24 +37,24 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Java",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Java Script",
+        value: 75,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "Java Android",
+        value: 90,
     },
     {
         name: "React",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "PHP",
+        value: 90,
     },
 ];
 
@@ -145,9 +145,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/feri27",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/anjar-feri-s-742b85102/",
     twitter: "https://twitter.com",
     youtube: "https://youtube.com",
     twitch: "https://twitch.com",
