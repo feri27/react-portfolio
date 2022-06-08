@@ -1,7 +1,7 @@
 const logotext = "##ANJAR##";
 const meta = {
     title: "Anjar Feri Saputro",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "ordinary people who are still struggling to learn to live",
 };
 
 const introdata = {
@@ -16,18 +16,18 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about my",
+    aboutme: "ordinary people who are still struggling to learn to live.",
 };
 const worktimeline = [{
         jobtitle: "Frontend Developer",
         where: "Vendermac",
-        date: "2022",
+        date: "Juny 2022",
     },
     {
         jobtitle: "Android Developer",
         where: "Vendermac",
-        date: "2021",
+        date: "February 2022",
     }
 ];
 
