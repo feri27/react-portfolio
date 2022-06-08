@@ -25,7 +25,7 @@ const worktimeline = [{
         date: "202",
     },
     {
-        jobtitle: "Fullstack Developer",
+        jobtitle: "Android Developer",
         where: "Vendermac",
         date: "2021",
     }
